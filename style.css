@@ -1,0 +1,46 @@
+body {
+	margin: 0px;
+	width: 1972px;
+	height: 1000px;
+	font-family: verdana;
+		
+}
+.main-manu {
+	background:#2980b9;
+	
+	
+	
+}
+.main-manu ul {
+	margin:0 ;
+	padding: 0;
+	list-style-type: none;
+	
+}	
+.main-manu ul li {
+	
+	float: left;
+	padding: 20px;
+}
+.main-manu ::after {
+	content: '';
+	display: block;
+	clear: both;
+	
+	
+	
+	
+}
+.main-manu ul li a {
+	text-decoration : none;
+	padding: 20px 40px;
+	display: inline-block;
+	color: white;
+	
+}
+.main-manu ul li a:hover {
+	background: red;
+	
+	
+	
+}
