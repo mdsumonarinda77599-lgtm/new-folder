@@ -1,0 +1,893 @@
+@media only screen and (max-width:775px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+
+    }
+
+    .header1,
+    .section1,
+    .p-1,
+    .section2,
+    .p-2 {
+        display: none;
+    }
+
+    .header2 ul {
+        gap: 6px !important;
+        padding-top: 22px !important;
+        font-size: 14px !important;
+    }
+
+
+
+    .website-background-image {
+        height: 300px !important;
+
+    }
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .owner-image1 {
+        height: 400px !important;
+
+    }
+
+    .owner-image2 {
+        height: 580px !important;
+
+
+    }
+
+}
+
+/* ...........@media only screen and (max-width:768px)............ */
+
+@media only screen and (max-width:768px) {
+    .header1 {
+        margin-left: 15px !important;
+    }
+
+    .website-background-image {
+        height: 385px !important;
+    }
+
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+    }
+
+    .header2 ul {
+        gap: 6px !important;
+        padding-top: 17px !important;
+        font-size: 22px !important;
+    }
+
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .owner-image1 {
+        height: 520px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 3px 0px 0px 116px !important;
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+
+    .join-support {
+        margin: 6px 0px 0px 280px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 56px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 96px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 6px 0px 0px 88px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 88px !important;
+    }
+}
+
+
+
+
+/* ...........@media only screen and (max-width:730px)............ */
+
+@media only screen and (max-width:730px) {
+    .header1 {
+        margin-left: 15px !important;
+    }
+
+    .website-background-image {
+        height: 385px !important;
+    }
+
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+    }
+
+    .header2 ul {
+        gap: 6px !important;
+        padding-top: 17px !important;
+        font-size: 22px !important;
+    }
+
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .owner-image1 {
+        height: 520px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 3px 0px 0px 116px !important;
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+
+    .join-support {
+        margin: 6px 0px 0px 280px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 56px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 96px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 6px 0px 0px 66px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 66px !important;
+    }
+}
+
+/* ...........@media only screen and (max-width:690px)............ */
+
+@media only screen and (max-width:690px) {
+    .header1 {
+        margin-left: 15px !important;
+    }
+
+    .website-background-image {
+        height: 385px !important;
+    }
+
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+
+    }
+
+    .header2 ul {
+        gap: 6px !important;
+        padding-top: 17px !important;
+        font-size: 22px !important;
+    }
+
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .owner-image1 {
+        height: 520px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 3px 0px 0px 108px !important;
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+
+    .join-support {
+        margin: 6px 0px 0px 280px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 56px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 96px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 6px 0px 0px 46px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 46px !important;
+    }
+}
+
+/* ...........@media only screen and (max-width:660px)............ */
+
+@media only screen and (max-width:658px) {
+    .header1 {
+        margin-left: 15px !important;
+    }
+
+    .website-background-image {
+        height: 385px !important;
+    }
+
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+
+    }
+
+    .header2 ul {
+        gap: 6px !important;
+        padding-top: 17px !important;
+        font-size: 22px !important;
+    }
+
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .owner-image1 {
+        height: 520px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 3px 0px 0px 108px !important;
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+
+    .join-support {
+        margin: 6px 0px 0px 280px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 56px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 96px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 5px 0px 0px 20px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 20px !important;
+    }
+}
+
+/* ...........@media only screen and (max-width:640px)............ */
+
+@media only screen and (max-width:640px) {
+    .header1 {
+        margin-left: 15px !important;
+    }
+
+    .website-background-image {
+        height: 385px !important;
+    }
+
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+
+    }
+
+    .header2 ul {
+        gap: 6px !important;
+        padding-top: 17px !important;
+        font-size: 22px !important;
+    }
+
+
+    .about-me {
+        height: 300X !important;
+    }
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .owner-image1 {
+        height: 520px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 3px 0px 0px 95px !important;
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+
+    .join-support {
+        margin: 6px 0px 0px 250px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 56px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 96px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 5px 0px 0px 20px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 20px !important;
+    }
+}
+
+/* ...........@media only screen and (max-width:627px)............ */
+
+@media only screen and (max-width:628px) {
+    .header1 {
+        margin-left: 15px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 8px 0px 0px 5px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 5px !important;
+    }
+
+
+    .website-background-image {
+        height: 385px !important;
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+
+    }
+
+    .header2 ul {
+        gap: 6px !important;
+        padding-top: 17px !important;
+        font-size: 22px !important;
+    }
+
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .owner-image1 {
+        height: 520px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 3px 0px 0px 95px !important;
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 10px !important;
+    }
+
+    .join-support {
+        margin: 6px 0px 0px 200px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 56px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 96px !important;
+    }
+}
+
+/* ...........@media only screen and (max-width:600px)............ */
+
+@media only screen and (max-width:600px) {
+    .header1 {
+        margin-left: 15px !important;
+    }
+
+    .website-background-image {
+        height: 385px !important;
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 14px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+
+    }
+
+    .header2 ul {
+        gap: 6px !important;
+        padding-top: 17px !important;
+        font-size: 22px !important;
+    }
+
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .owner-image1 {
+        height: 520px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 3px 0px 0px 95px !important;
+    }
+
+    .join-support {
+        margin: 6px 0px 0px 200px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 56px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 96px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 8px 0px 0px 5px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 5px !important;
+    }
+
+}
+
+
+/* ...........@media only screen and (max-width:550px)............ */
+
+@media only screen and (max-width:550px) {
+    .header1 {
+        margin-left: 15px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+
+    }
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 4px 0px 0px 86px !important;
+    }
+
+    .join-support {
+        margin: 6px 0px 0px 185px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 25px !important;
+    }
+
+    .header2 ul {
+        font-size: 19px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 8px 0px 0px 5px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 5px !important;
+    }
+
+}
+
+/* ...........@media only screen and (max-width:500px)............ */
+
+@media only screen and (max-width:500px) {
+    .header1 {
+        margin-left: 3px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+
+    }
+
+    .header2 ul {
+        padding-top: 17px !important;
+        font-size: 18px !important;
+    }
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 4px 0px 0px 60px !important;
+    }
+
+    .join-support {
+        margin: 6px 0px 0px 170px !important;
+    }
+
+    .mobile-section-1 {
+        padding: 13px 0px 0px 7px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 8px 0px 0px 5px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 5px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 40px !important;
+    }
+}
+
+
+
+
+/* ...........@media only screen and (max-width:430px)............ */
+
+@media only screen and (max-width:430px) {
+    .header1 {
+        margin-left: 1px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 4px !important;
+    }
+
+    .header2 ul {
+        gap: 5px !important;
+        padding-top: 19px !important;
+        font-size: 15px !important;
+    }
+
+    .website-background-image {
+        height: 310px !important;
+    }
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .owner-image1 {
+        height: 460px !important;
+    }
+
+
+    .title-3 {
+        height: 430px !important;
+    }
+
+    .owner-image2 {
+        height: 300px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 4px 0px 0px 47px !important;
+    }
+
+    .join-support {
+        margin: 6px 0px 0px 130px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 5px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 20px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 8px 0px 0px 5px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 5px !important;
+    }
+
+}
+
+/* ...........@media only screen and (max-width:330px)............ */
+
+@media only screen and (max-width:330px) {
+    .header1 {
+        margin-left: 1px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 2px !important;
+    }
+
+    .header2 ul {
+        gap: 5px !important;
+        padding-top: 19px !important;
+        font-size: 13px !important;
+    }
+
+    .website-background-image {
+        height: 310px !important;
+    }
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .owner-image1 {
+        height: 460px !important;
+    }
+
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .owner-image2 {
+        height: 540px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 4px 0px 0px 37px !important;
+    }
+
+    .join-support {
+        margin: 6px 0px 0px 90px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 5px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 20px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 8px 0px 0px 5px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 5px !important;
+    }
+
+}
+
+/* ...........@media only screen and (max-width:300px)............ */
+
+@media only screen and (max-width:300px) {
+    .header1 {
+        margin-left: 0px !important;
+    }
+
+    .header2 ul li a {
+        gap: 5px !important;
+
+    }
+
+    .mobile-section-1 {
+        padding: 14px 0px 0px 2px !important;
+    }
+
+    .header2 ul {
+        gap: 5px !important;
+        padding-top: 24px !important;
+        font-size: 12px !important;
+    }
+
+    .website-background-image {
+        height: 310px !important;
+    }
+
+    .about-me {
+        height: 300PX !important;
+    }
+
+    .owner-image1 {
+        height: 460px !important;
+    }
+
+
+    .title-3 {
+        height: 300px !important;
+    }
+
+    .owner-image2 {
+        height: 540px !important;
+    }
+
+    .mobile-section-1-1 {
+        padding: 4px 0px 0px 37px !important;
+    }
+
+    .join-support {
+        margin: 6px 0px 0px 90px !important;
+    }
+
+    .footer-section-2 {
+        margin: 15px 0px 0px 5px !important;
+    }
+
+    .website-development p {
+        padding: 0px 0px 0px 20px !important;
+    }
+
+    .p-n-section-2 {
+        margin: 8px 0px 0px 5px !important;
+    }
+
+    .p-n-section-1 {
+        margin: 17px 0px 0px 5px !important;
+    }
+
+    .p-n-section-1 {
+        width: 208px !important;
+    }
+
+    .p-n-section-2 {
+        width: 208px !important;
+    }
+
+    .Design-and-development {
+        font-size: 10px !important;
+    }
+
+    .header2 ul {
+        padding: 20px 2px 24px 1px !important;
+    }
+
+}
+
+
+/* computer---pc */
+
+@media only screen and (min-width:775px) and (max-width:2000px) {
+
+    .mobile-section,
+    .mobile-section-1 {
+        display: none;
+    }
+
+    .website-background-image {
+        height: 100% !important;
+        width: 100%;
+
+    }
+
+    .about-me {
+        height: 644PX !important;
+
+    }
+
+    .title-3 {
+        height: 319px !important;
+
+    }
+
+    footer,
+    .footer-section-1,
+    .mobile-section-1-1 {
+        display: none;
+    }
+
+
+
+}

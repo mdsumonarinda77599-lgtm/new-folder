@@ -1,0 +1,113 @@
+@media only screen and (max-width:1600px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+
+    }
+
+    /* .margin-1 {
+        margin: 10px 900px 10px 30px !important;
+    } */
+
+
+
+}
+
+@media only screen and (max-width:769px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+
+    }
+
+    .owner-photo {
+        height: 350px !important;
+    }
+
+}
+
+@media only screen and (max-width:730px) {
+    .owner-photo {
+        height: 250px !important;
+    }
+
+}
+
+@media only screen and (max-width:680px) {
+    .owner-photo {
+        height: 240px !important;
+    }
+
+}
+
+@media only screen and (max-width:640px) {
+    .owner-photo {
+        height: 235px !important;
+    }
+
+}
+
+@media only screen and (max-width:600px) {
+    .owner-photo {
+        height: 230px !important;
+    }
+
+}
+
+@media only screen and (max-width:570) {
+    .owner-photo {
+        height: 220px !important;
+    }
+
+}
+
+@media only screen and (max-width:530x) {
+    .owner-photo {
+        height: 205px !important;
+    }
+
+}
+
+@media only screen and (max-width:500px) {
+    .owner-photo {
+        height: 250px !important;
+    }
+
+}
+
+@media only screen and (max-width:460px) {
+    .owner-photo {
+        height: 200px !important;
+    }
+
+}
+
+@media only screen and (max-width:410px) {
+    .owner-photo {
+        height: 195px !important;
+    }
+
+}
+
+@media only screen and (max-width:370px) {
+    .owner-photo {
+        height: 190px !important;
+    }
+
+}
+
+@media only screen and (max-width:320px) {
+    .owner-photo {
+        height: 180px !important;
+    }
+
+}
+
+@media only screen and (max-width:300px) {
+    .owner-photo {
+        height: 175px !important;
+    }
+
+}
